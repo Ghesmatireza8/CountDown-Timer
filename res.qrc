@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="pics">
+    <file>circular-clock.png</file>
+    <file>Black Gold wallpaper.png</file>
+  </qresource>
+</RCC>
